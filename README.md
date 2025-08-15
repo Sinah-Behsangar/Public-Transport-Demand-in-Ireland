@@ -52,8 +52,8 @@ The Tableau dashboard consists of three charts:
 
 ## **How to View the Dashboard**
 You can view the Tableau Public dashboard here:  
-https://public.tableau.com/views/PublicTransportDemandinIrelandTHA24/PublicTransportDemandinIrelandTHA24?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+[https://public.tableau.com/views/PublicTransportDemandinIrelandTHA24/PublicTransportDemandinIrelandTHA24?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+](https://public.tableau.com/views/PublicTransportDemandinIrelandTHA24/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## **Insights**
